@@ -1,9 +1,9 @@
-package TrabalhoPOO;
+package trabalhoPOO;
 
 import javax.swing.JFrame;
 
 public class JogoFrame extends JFrame {
-    
+
     public JogoFrame() {
         // Configurações básicas do JFrame
         setTitle("Campo de Batalha");

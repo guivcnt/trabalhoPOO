@@ -1,4 +1,4 @@
-package TrabalhoPOO;
+package trabalhoPOO;
 
 import java.awt.Rectangle;
 import java.util.Random;

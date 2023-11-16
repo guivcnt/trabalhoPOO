@@ -1,4 +1,4 @@
-package TrabalhoPOO;
+package trabalhoPOO;
 
 import javax.swing.SwingUtilities;
 
